@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.MovesTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-05-04T21:52:36" hostname="Nicks-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="rowWithDifferentTileLeftTest" classname="model.MovesTest" time="0.003"/>
+  <testcase name="columnWithDifferentTileDownTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="columnWithSameTileUpTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="columnWithDifferentTileUpTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="emptyColumnDownTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="emptyRowLeftTest" classname="model.MovesTest" time="0.0"/>
+  <testcase name="columnWithSameTileDownTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="rowWithDifferentTileRightTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="emptyRowRightTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="rowWithSameTileRightTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="rowWithSameTileLeftTest" classname="model.MovesTest" time="0.001"/>
+  <testcase name="emptyColumnUpTest" classname="model.MovesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
